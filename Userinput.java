@@ -6,9 +6,10 @@ class Userinput{
         double b=sc.nextDouble();
         float c=sc.nextFloat();
         String str1=sc.next();
-        System.out.println("Value of a:"+a);
-        System.out.println("Value of b:"+b);
-        System.out.println("Value of c:"+c);
+        System.out.println("Value of Integer(a):"+a);
+        System.out.println("Value of Double(b):"+b);
+        System.out.println("Value of Float(c):"+c);
         System.out.println("String word:"+str1);
     }
+
 }
